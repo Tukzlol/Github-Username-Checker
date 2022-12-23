@@ -8,4 +8,4 @@
 
 ### 🔥 Features
 * Fast Speeds
-* Proxy/Proxyless Support
+* Proxy Support
